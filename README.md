@@ -1,0 +1,26 @@
+# 👋 Hi there, i'm Friska
+
+## currently working as full stack web developer 👩‍💻
+
+Have interest in the data field lately (Data Science, Data Analysis, etc ...)
+
+reach me :
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C28&logo=linkedin&logoColor=white)]([-purnaramadhan-59552b168/](https://www.linkedin.com/in/friskaayu/)) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&labelColor=000000&logo=Medium&logoColor=white)](https://medium.com/@friska.listya)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=EA4335&logo=Gmail&logoColor=white)](friska.listya@gmail.com)
+
+<!--
+**friskaayu/friskaayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
