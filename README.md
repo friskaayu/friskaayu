@@ -2,8 +2,6 @@
 
 ## currently working as full stack web developer 👩‍💻
 
-Have interest in the data field lately (Data Science, Data Analysis, etc ...)
-
 reach me :
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C28&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/friskaayu/)
