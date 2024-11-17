@@ -1,6 +1,6 @@
 # 👋 Hi there, i'm Friska
 
-## currently working as full stack web developer 👩‍💻
+## currently working as Quality Assurance 👩‍💻
 
 reach me :
 
